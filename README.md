@@ -2,6 +2,8 @@
 
 **Software developer (full-stack web and AI/ML) · Co-founder of [Velune Creative Studio](https://www.veluneproductions.com) · Bengaluru, India**
 
+**Portfolio: [shxamill.vercel.app](https://shxamill.vercel.app)**, where my career is laid out as a video-editor timeline you can scrub through.
+
 I build full-stack web apps with React, Next.js, Node.js and MongoDB, and machine-learning apps with Python and scikit-learn. I have a BCA in Artificial Intelligence, Cloud Computing and DevOps from Yenepoya University (IBM Innovation Centre for Education program) and hold IBM's [Artificial Intelligence & Machine Learning Graduate](https://www.credly.com/badges/8fbacc4d-b1c8-4a65-906d-6ab5278c1bf6) credential.
 
 At Velune I build websites for brands and also handle content and digital marketing. I was a top-10 finalist (of 30 teams) at the IBM ICE Day national hackathon.
@@ -31,4 +33,4 @@ At Velune I build websites for brands and also handle content and digital market
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/shxamill) · [Velune](https://www.veluneproductions.com) · [Instagram @veluneproductions](https://www.instagram.com/veluneproductions/)
+[Portfolio](https://shxamill.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shxamill) · [Velune](https://www.veluneproductions.com) · [Instagram @veluneproductions](https://www.instagram.com/veluneproductions/)
